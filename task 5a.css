@@ -1,0 +1,26 @@
+body{
+    background-color:  #a97d9251;;
+}
+i{
+    color: aliceblue;
+}
+label{
+    color: aliceblue;
+}
+input{
+    background-color: rgba(122, 90, 108, 0.783);
+    border: none;
+    padding: 10px 20px;
+    margin:10px ;
+    border-radius: 8px;
+
+}
+button {
+    background-color: rgba(122, 90, 108, 0.783);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 13px;
+    margin: 5px;
+}
